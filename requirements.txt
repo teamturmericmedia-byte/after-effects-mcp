@@ -1,0 +1,5 @@
+# Core server needs nothing beyond Python 3.10+.
+# These power ae_preview / ae_compare (Pillow), ae_cutout (opencv), ae_detect_beats / ae_measure_motion (numpy + opencv).
+pillow
+numpy
+opencv-python
